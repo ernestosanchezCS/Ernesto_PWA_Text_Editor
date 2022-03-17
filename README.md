@@ -1,11 +1,12 @@
-# Social Network API Using Mongo DB
+# Text Editor Using Progressive Web App (PWA) Technology
 
 [![Licence : MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://opensource.org/licences/MIT)
 
 ## Description
 
-MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. The idea here was to increase my understanding with technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that I understand how to build and structure the API first.
-This repository application functions as API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This back end app uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
+This app functions as a text editor that runs in the browser. The app is a single-page application that meets PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. This application also function offline.
+This text editor implements methods for getting and storing data to a local IndexedDB database. Using a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+This full-stack application is deployed live to Heroku.
 
 ## Table of Contents
 
@@ -20,9 +21,9 @@ This repository application functions as API for a social network web applicatio
 
 ## User Story
 
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
 
 ## Screenshots
 
