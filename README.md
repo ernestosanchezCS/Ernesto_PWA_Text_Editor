@@ -35,13 +35,18 @@ SO THAT I can reliably retrieve them for later use
 ## Installation
 
 This project uses npm packages:
+In main directory terminal Enter the following commands :
+
+```
+npm init -y
+```
 
 ```
 npm i
 ```
 
 ```
-Finally run
+npm run build
 ```
 
 ```
