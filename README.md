@@ -27,19 +27,14 @@ SO THAT I can reliably retrieve them for later use
 
 ## Screenshots
 
-![Screen Shot](./assets/images/getUsers.png)
-![Screen Shot](./assets/images/getThoughts.png)
-![Screen Shot](./assets/images/getSingleUser.png)
-![Screen Shot](./assets/images/getSingleThought.png)
+![Screen Shot](./Assets/images/imgone.png)
+![Screen Shot](./Assets/images/imgtwo.png)
+![Screen Shot](./Assets/images/imgthree.png)
 
 ## Installation
 
 This project uses npm packages:
 In main directory terminal Enter the following commands :
-
-```
-npm init -y
-```
 
 ```
 npm i
